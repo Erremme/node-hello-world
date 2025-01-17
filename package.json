@@ -1,0 +1,24 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "say hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "watch": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erremme/node-hello-world.git"
+  },
+  "author": "Raffaele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erremme/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/Erremme/node-hello-world#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
